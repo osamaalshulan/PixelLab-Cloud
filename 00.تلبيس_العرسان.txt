@@ -1,0 +1,62 @@
+{
+  "quotes": [
+  "صورة مفصلة للغاية وواقعية جداً لنفس الشخص، استخدم 100% من وجهه، يجب أن يكون وجهك تماماً مثل صورة السيلفي الأصلية - بدون تعديل أو تنقيح أو تنعيم. حافظ على جميع ملامح الوجه وملمس البشرة والتعبيرات.  
+يقف في مكان مفتوح أو عند مدخل مبنى.  
+يتميز الزي بثوب تقليدي أبيض ناصع (زنة) بأكتاف بارزة ومحددة. فوق الثوب، توجد مجموعة متطابقة من الإكسسوارات الجلدية باللون الأسود المزينة بكثافة بأنماط هندسية ذهبية دقيقة، ومسامير معدنية، وفتحات رصاص زخرفية. تشمل هذه الإكسسوارات: غطاء رأس تقليدي ملفوف (شال/عصابة)، أحزمة صدر متقاطعة، أساور معصم جلدية عريضة، وحزام خصر عريض (عسيب). يتوسط الحزام خنجر يمني تقليدي مقوس (جنبية) بمقبض خشبي وذهبي مع غمد جلدي بني فاتح. تظهر اليدان تمسك بالجنبية مرتدية ساعة يد حديثة داكنة وخواتم فضية بأحجار كريمة سوداء.
+التكوين احترافي ومذهل بصرياً، ويلتقط كلاً من الفرد والزي التقليدي بواقعية كاملة.  
+الإضاءة والإضاءة الخلفية:  
+الإضاءة: ضوء طبيعي واضح وقوي، ربما ضوء النهار، يسلط الضوء على نفس الشخص.  
+الخلفية: الخلفية ضبابية (مع تأثير الخوخ)، ولكن يمكن تمييز العناصر المعمارية. يمكن رؤية باب معدني داكن أو مدخل أو شبكة معدنية على اليسار. على اليمين، تبدو الخلفية كمبنى بزخارف معمارية تقليدية أو حديثة باللون الذهبي أو الأصفر الداكن، مما يخلق تبايناً جميلاً مع ملابس الشخص.  
+الطريقة التقنية:  
+النمط: تصوير عالي الجودة بعمق ضحل للتركيز.  
+كل الانتباه على الشخص.  
+الجو العام: تنضح الصورة بالثقة والأناقة، وهي مزيج فريد من التراث والحداثة.  
+،في الزاوية السفلية على اليسار من مساحة العمل، يوجد نص/توقيع صغير أنيق مكتوب بخط اليد يقول 'PixelLab Pro Plus'.",
+"A highly detailed and incredibly realistic photograph of the same person, using 100% of their face. Your face must be exactly like the original selfie—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions.
+
+Standing in an open space or at the entrance of a building.
+The attire features a traditional, pristine white robe (zanna) with prominent, defined shoulders. Over the robe is a matching set of black leather accessories, richly decorated with intricate gold geometric patterns, metal studs, and decorative bullet holes. These accessories include a traditional wrapped headdress (shawl/band), crossed chest straps, wide leather wristbands, and a broad waist belt (asib). At the center of the belt is a traditional curved Yemeni dagger (jambiya) with a wooden and gold handle and a light brown leather scabbard. The hands holding the jambiya are shown wearing a modern, dark wristwatch and silver rings with black gemstones.
+
+The composition is professional and visually stunning, capturing both the individual and the traditional attire with complete realism.  Lighting and Backlighting:
+Lighting: Clear, strong natural light, possibly daylight, shines on the same person.
+Background: The background is blurred (with a peach effect), but architectural elements are discernible. A dark metal door, entrance, or metal grille can be seen on the left. On the right, the background appears to be a building with traditional or modern architectural motifs in gold or dark yellow, creating a pleasing contrast with the person's clothing.
+Technical Approach:
+Style: High-quality photography with shallow depth of field.
+All attention is on the person.
+Overall Feel: The image exudes confidence and elegance, a unique blend of heritage and modernity.
+In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}
