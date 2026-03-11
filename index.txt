@@ -1,6 +1,2 @@
-00.تلبيس_العرسان.txt
-00.Cloud1.txt
-01.Cloud.txt
-02.Logos.txt
-03.Gemini.txt
-07.OSAMA
+1.تلبيس_العرسان.txt
+3.عيد_الفطر.txt
