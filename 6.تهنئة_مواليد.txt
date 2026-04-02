@@ -1,0 +1,130 @@
+{
+  "quotes": [
+  "#1
+  A hyper-detailed, professional newborn celebration poster design based on a soft ethereal palette of baby blue and white.
+
+**Background:** The background is a dreamy composition of soft white and cyan clouds, integrated with large, semi-transparent light blue roses (focused on the upper left) and subtle, stylized floral patterns (middle right). A defined horizontal cyan line runs across the design, separating the main greeting from the baby/name area. Two separate intricate, flowing blue wavy lines weave dynamically across the entire poster.
+
+**Typography and Text Layout (Meticulously Detailed):**
+
+* **Top Greeting (Arabic):**
+    * **Text:** 'تهانينــــــــــــــــــا'
+    * **Style:** A large, bold, rounded 3D Arabic calligraphy style. The letters are clean white with a distinct cyan-blue outline, creating a dimensional, soft-embossed effect. Positioned at the upper top center.
+* **Recipient Badge (Arabic):**
+    * **Container:** A clean, rounded-corner cyan pill-shaped badge/banner.
+    * **Text:** 'للأخ/شوقي الشعلان'
+    * **Style:** Clean, modern white sans-serif Arabic typography, perfectly aligned inside the banner.
+* **Body Text Block (Arabic):**
+    * **Container:** Centered below the badge.
+    * **Text (lines):**
+        * Line 1: 'بمناسبة ارتزاقة المولودة الجديدة'
+        * Line 2: 'جعلها الله من مواليد السعادة'
+        * Line 3: 'وأنبتها نباتاً حسناً'
+    * **Style:** Formal, elegant, and perfectly structured dark blue Arabic text in a clear, modern Naskh or Kufi-inspired script. All text elements are sharp and distinct.
+
+**Central Element:**
+A hyper-realistic sleeping newborn baby wearing a fuzzy blue hooded onesie, resting peacefully inside a textured, light blue spherical pod (egg-shaped). The texture of the fuzzy suit and the pod are sharply defined. The baby is centered in the lower middle, positioned within the visual flow.
+
+**Lighting and Atmosphere:**
+Soft angelic lighting, dreamy and cinematic. The depth of field is carefully managed to keep all elements sharp. 8k resolution, photorealistic rendering.
+
+**Composition and Frame:**
+Square aspect ratio (1:1). The entire composition is balanced with soft light, creating a luxurious and joyful celebration feel.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+1:1",
+"#2
+A hyper-detailed, professional newborn celebration poster design based on a soft ethereal palette of baby blue and white.
+
+**Background:** The background is a dreamy composition of soft white and cyan clouds, integrated with large, semi-transparent light blue roses (focused on the upper left) and subtle, stylized floral patterns (middle right). A defined horizontal cyan line runs across the design, separating the main greeting from the baby/name area. Two separate intricate, flowing blue wavy lines weave dynamically across the entire poster.
+
+**Typography and Text Layout (Meticulously Detailed):**
+
+* **Top Greeting (Arabic):**
+    * **Text:** 'تهانينا'
+    * **Style:** A large, bold, rounded 3D Arabic calligraphy style. The letters are clean white with a distinct cyan-blue outline, creating a dimensional, soft-embossed effect. Positioned at the upper top center.
+* **Recipient Badge (Arabic):**
+    * **Container:** A clean, rounded-corner cyan pill-shaped badge/banner.
+    * **Text:** 'للأخ/ليث السفياني'
+    * **Style:** Clean, modern white sans-serif Arabic typography, perfectly aligned inside the banner.
+* **Body Text Block (Arabic):**
+    * **Container:** Centered below the badge.
+    * **Text (3 lines):**
+        * Line 1: 'بمناسبة ارتزاقة المولودة الجديدة'
+        * Line 2: 'جعلها الله من مواليد السعادة'
+        * Line 3: 'وأنبتها نباتاً حسناً'
+    * **Style:** Formal, elegant, and perfectly structured dark blue Arabic text in a clear, modern Naskh or Kufi-inspired script. All text elements are sharp and distinct.
+* **Intro to Main Name (Arabic):**
+    * **Text:** 'والتي أسماها'
+    * **Style:** White text with a cyan outline (rounded style, matching the top text), positioned just above the large name.
+* **Main Name Calligraphy (Arabic):**
+    * **Text:** 'رتيل'
+    * **Style:** A massive, stylized, flowing, and abstract Arabic calligraphy script. The name  is integrated directly into the right-hand wavy blue line, creating a single, continuous, elegant visual element. The letters are blue, intricate, and dominate the lower-right side.
+* **Footer Logo (Arabic and English):**
+    * **Container:** Bottom center.
+    * **Text:** 'اسامة للإعلان' (Arabic), 'OSAMA ADVERTISING' (English).
+    * **Style:** Small, professional branding with modern, clean blue typography.
+
+**Central Element:**
+A hyper-realistic sleeping newborn baby wearing a fuzzy blue hooded onesie, resting peacefully inside a textured, light blue spherical pod (egg-shaped). The texture of the fuzzy suit and the pod are sharply defined. The baby is centered in the lower middle, positioned within the visual flow.
+
+**Lighting and Atmosphere:**
+Soft angelic lighting, dreamy and cinematic. The depth of field is carefully managed to keep all elements sharp. 8k resolution, photorealistic rendering.
+
+**Composition and Frame:**
+Square aspect ratio (1:1). The entire composition is balanced with soft light, creating a luxurious and joyful celebration feel.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+1:1",
+
+"#3
+A professional newborn congratulation poster design.
+
+**Background:** Soft, solid beige background.
+
+**Central Element:** A realistic baby lying on its stomach on a white fluffy rug, wearing a white hooded towel with small bear ears.
+
+**Typography and Layout (Arabic):**
+* **Top:** Elegant brown Arabic calligraphy reading 'مبروك المولود'.
+* **Upper Middle:** Two lines of text in alternating brown and orange reading 'نتقدم' and ' بأسمى آيات التهاني لـ'.
+* **Name Banner:** A dark brown rounded rectangular badge containing the text 'الأخ / اسامة نجيب' in orange.
+* **Lower Text Block:** Enclosed within a thin brown outline, text in brown and orange reading: 'بمناسبة ارتزاقة المولود الجديد', 'والذي اسماه: عبيدة', and 'بارك الله لك الموهوب وشكرت الواهب ورزقت برة'.
+
+**Footer:** A horizontal orange band at the bottom containing a dark brown rectangular inset. 
+
+Soft lighting, highly detailed, 8k resolution.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+3:4",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}
