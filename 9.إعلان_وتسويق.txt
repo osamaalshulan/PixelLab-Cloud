@@ -1,0 +1,78 @@
+{
+  "quotes": [
+"#1
+A high-quality 3D digital marketing concept poster design.
+
+**Background:** A solid, deep royal blue background that transitions into a smooth, highly reflective glossy floor. Soft, dramatic lighting highlights the center, creating sharp, mirror-like reflections of the central objects on the floor.
+
+**Central 3D Elements (Meticulously Detailed):**
+* **The Power Source (Left):** A horizontal cylindrical glass battery with brushed metallic silver end caps resting on the floor. Inside the transparent glass body, brightly colored, glossy 3D square icons of various social media platforms (X, Pinterest, LinkedIn, Instagram, Facebook, WhatsApp, TikTok, YouTube) are packed tightly together, acting as the battery's energy.
+* **The Connection:** A glowing, bright orange/yellow neon wire curves smoothly out from the right metallic terminal of the battery and connects directly to the metal base of a lightbulb.
+* **The Lightbulb (Right):** A clear, realistic glass lightbulb standing upright. Inside the glass bulb, the glowing filament is creatively shaped to spell the word 'Brand' in bright, luminous yellow-orange neon light.
+
+**Typography and Text Layout (Arabic and English):**
+* **Main Headline (Top/Center-Left):**
+        * Line 1: Bold yellow Arabic Naskh/Kufi text '= وسائل التواصل'.
+        * Line 2: Bold white Arabic text 'ليست الهدف'.
+        * Line 3: Bold dark blue Arabic text reading 'بل هي الوقود', placed perfectly inside a solid, bright yellow rectangular banner that is slightly tilted.
+
+
+**Lighting and Atmosphere:**
+Vibrant 3D rendering, glowing neon effects, photorealistic glass and metal textures, sharp glossy reflections, highly conceptual, 8k resolution.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+1:1",
+
+"#2
+A creative and energetic digital advertisement poster.
+
+**Background:** A solid, bright yellow 3D environment resembling an empty room or studio. Subtle perspective lines indicate a floor, a back wall, and a ceiling, giving the space depth.
+
+**Central Imagery & VFX (Meticulously Detailed):**
+* **The Character:** A realistic young man is levitating/floating horizontally in mid-air in a seated posture, facing right. He is intensely typing on an open laptop that rests on his lap. He is wearing a greyish patterned shirt with rolled-up sleeves, blue denim shorts, and black sneakers. 
+* **Visual Effects (Speed Concept):** Bright, glowing white and blue electrical lightning bolts and energy waves shoot horizontally across the screen, passing through and trailing behind the man, visualizing extreme speed. There is a subtle digital pixelation/glitch effect dissolving around his back and the back of his head.
+* **Shadow:** A distinct, dark, soft drop shadow is cast on the yellow floor directly underneath the floating man, grounding the levitation effect.
+
+**Typography and Layout (Arabic & English):**
+
+* **Center Headline (Arabic):** * Line 1: Large, bold black Arabic text 'سرعة فائقة'. The word 'سرعة' has a solid yellow rectangular highlight box behind it.
+    * Line 2: Slightly smaller, bold black Arabic text below it reading 'في تنفيذ التصميمات'.
+    
+**Lighting and Atmosphere:**
+Surreal, high-energy, vivid colors, bright studio lighting, photorealistic character blending with glowing 2D/3D VFX, 8k resolution.
+، In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+1:1",
+"■ كيفية إستخدام البرومبت ✓
+..........................................
+ 1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
+ 2. فتح الذكاء الاصطناعي: افتح تطبيق (✦ Gemini).
+ 3. إدراج الوسائط: قم برفع صورتك 🖼 ثم...
+ 4. اللصق: (الصق البرومبت ⎘) في محادثة ✦ Gemini.
+ 5. التفعيل: تأكد من أن ميزة توليد الصور مفعلة 🍌.
+ 6. النتيجة: قم بتوليد صورتك واستمتع! ✨
+..........................................
+■ ملاحظة مهمة ✓
+عند إستخدام برومبت (تلبيس العرسان 🤵🏻👰🏻):
+ 1. ارفع صورتك الشخصية مع صورة الزي (زي عريس مفرغ).
+ 2. لضمان أفضل دقة، ارفع صورتك (من الصدر إلى الأعلى 👤) لتظهر الملامح بوضوح.
+..........................................
+■ قاعدة هامة ✓
+● أي برومبت يحتوي على نص عربي، يجب إستخدام وضع المفكر (Flash Thinking)، أو وضع الـ برو (Pro) لضمان جودة الخط.
+..........................................
+■ معلومة خاصة ✓
+● أي برومبت يوجد فيه هذا الرمز ↑￼↑، فهذا يعني ضرورة إرفاق صورة مع البرومبت ليعمل بشكل صحيح.
+● البرومبتات متوفرة باللغتين [ AR - EN ].
+..........................................
+■ جميع الحقوق محفوظة © ✓
+تطبيق بيكسلاب برو بلاس (PixelLab Pro Plus).
+@ المطور: م/ أسامة الشعلان.",
+"■ للحصول على المزيد من البرومبتات قم بزيارة صفحتنا على الويب
+
+🔹 osamaalshulanapk.blogspot.com
+
+■ او قم بـ متابعتنا على بينترست :-
+
+🔹 Pinterest :- Pinterest.com/qqyy_y 
+ 
+■ جميع الحقوق محفوظة لدى تطبيق بيكسلاب برو بلاس℡©"
+  ]
+}
