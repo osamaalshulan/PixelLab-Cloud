@@ -408,7 +408,7 @@ Main Image (Center to Left): A realistic image using 100% of his face; your face
 
 Visual Effect (Dispersion Mask) for the Main Image:
 1.	General Look and Style (Style & Appearance)
-◦	Dispersion Type: The effect takes the form of an "Ink Splatter" or rough "Grunge Brushes." It is not geometric dispersion (like pixels or polygons), but a random, free dispersion that resembles scattering liquids or ash in the air.
+◦	Dispersion Type: The effect takes the form of an 'Ink Splatter' or rough 'Grunge Brushes.' It is not geometric dispersion (like pixels or polygons), but a random, free dispersion that resembles scattering liquids or ash in the air.
 ◦	Motion Gradient: The dispersion appears to move from the left of the image to the right. The effect starts dense and connected to the person's body, then gradually fragments into scattered spots and droplets that decrease in size as they move away from the body and fade into the white background.
 2.	Colors (Color Dynamics)
 ◦	The effect here is realistic and linked to the element; it relies on reproducing the person's own colors. The scattered parts on the right take on a dense black color, while the lower parts take on grayish colors. This color harmony gives a real impression that the person's body or clothes are what is scattering.
@@ -420,20 +420,20 @@ Visual Effect (Dispersion Mask) for the Main Image:
 ◦	Visual Guidance: The dispersion extending to the right fills the white space in the poster in a balanced way, leads the viewer's eye towards the center of the design, and lends a cinematic and modern feel.
 Typography and Text Formatting (Arabic and English):
 
-Top Center: The word "wedding" is written in an elegant, thin, brown connected script.
+Top Center: The word 'wedding' is written in an elegant, thin, brown connected script.
 
 Top Left (Vertical Text): Two parallel lines of text vertically (read from top to bottom).
-•	Inner Line: Dark brown Arabic text: "اسامة نجيب الشرعبي"
+•	Inner Line: Dark brown Arabic text: 'اسامة نجيب الشرعبي'
 •	Outer Line: Small brown English text for the same name in English.
 Bottom Right (Number Block):
-•	A large, bold, gray/dark blue number: "1000"
-•	Immediately to its left, a vertical brown rectangular badge containing the white text: "مبروك"
-•	Below that block (the number block), the Arabic text in gray/dark blue: "ألف مبروك"
-◦	Below this text, inside a white rectangular box with thin brown borders, is written in Arabic in brown color: "بمناسبة زفافه الميمون"
+•	A large, bold, gray/dark blue number: '1000'
+•	Immediately to its left, a vertical brown rectangular badge containing the white text: 'مبروك'
+•	Below that block (the number block), the Arabic text in gray/dark blue: 'ألف مبروك'
+◦	Below this text, inside a white rectangular box with thin brown borders, is written in Arabic in brown color: 'بمناسبة زفافه الميمون'
 Bottom Left: Lines of clear Arabic copy text in gray/dark blue:
-•	First line: "تهنئة مقدمة من: كافة الأهل والأصدقاء"
-•	Second line: "وإدارة تطبيق بيكسلاب برو بلاس"
-Far Left Edge: Small brown vertical text reading upwards: "اسامة للإعلان | 771588068" next to a small square block.
+•	First line: 'تهنئة مقدمة من: كافة الأهل والأصدقاء'
+•	Second line: 'وإدارة تطبيق بيكسلاب برو بلاس'
+Far Left Edge: Small brown vertical text reading upwards: 'اسامة للإعلان | 771588068' next to a small square block.
 
 Lighting and Atmosphere:
 
