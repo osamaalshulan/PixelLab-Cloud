@@ -442,7 +442,61 @@ Bright, soft cinematic studio lighting around the subject. High contrast in the 
 
 Length 3000 : Width 2000
 2:3",
+"↑￼↑ #12 ********
+High-resolution, professional vertical congratulatory poster.
 
+**Background:** A faded, muted (sepia/grey) photograph of a cityscape, with a classic tower clock prominently displayed on the right. The background features a soft gradient that fades to a white space at the bottom for the text. The semi-transparent, muted English text 'Blessed Wedding' is written in cursive script and repeats vertically along the right edge.
+
+**Portrait (Ultra High Resolution):** A realistic photograph of the person from the reference image, positioned in the center. Use 100% of their face; your face should be exactly like the original selfie—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. Look directly at the camera.
+
+**Attire:** Wears a traditional pristine white thobe (zina) with prominent, defined shoulders.
+
+**Accessories:** Over the thobe, wears a matching set of olive and grey leather accessories, adorned with delicate silver metal medallions and pins. These accessories include crossed chest straps, wide leather wristbands, and a wide waist belt (asib). A traditional curved Yemeni dagger (jambiya) is tucked into the center of the belt.
+
+Weapon: An antique wooden and metal rifle hangs from his left shoulder, clearly visible behind his back.
+
+Details: His left hand rests near the belt, displaying a large, modern black wristwatch and a silver ring.
+
+Typography and Text Layout (Arabic and English):
+
+* **Top Title:** The word 'Congratulations' is written in a clear, three-dimensional cursive font in olive green, with a distinctive white border/glow at the top.
+
+* **Name at the Bottom Center (Arabic):** In a large, elegant Arabic script, written in a modern, fluid, 3D, flame-like font in olive green, with a distinctive white border/glow at the top. The text reads 'اسامة نجيب'
+
+* **Name at the bottom center (English):** Below the Arabic name, the English text of the same name is translated into English in a clear, elegant cursive font, in olive green.
+
+* **Footnote:** Directly below, a single line in small, sharp black Arabic script reads: 'تهنئة مقدمة من: كافة الأهل والأصدقاء'
+
+**Lighting and Atmosphere:** Soft, professional portrait lighting on the subject, maintaining perfect clarity against a soft, light golden-brown blurred background. Cinematic depth of field, 8K resolution.
+In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+2:3",
+"↑￼↑ #13 *******
+High-resolution, professional vertical congratulatory poster.
+
+**Background:** A faded, muted photograph (sepia/grey tones) of a view of Dar al-Hajar in Old Sana'a, with the Dome of the Rock clearly visible on the right. The background features a soft gradient that fades to a white space at the bottom for the text. The text 'BLESSED WEDDING' is a semi-transparent, muted English phrase in cursive script, repeating vertically along the right edge.
+
+**Portrait (Ultra-High Resolution):** A realistic photograph of the person from the reference image, positioned in the center. Use 100% of their face; your face should be exactly like the original selfie—no editing, retouching, or smoothing. Preserve all facial features, skin texture, and expressions. Look directly at the camera.
+
+**Attire:** Wearing a traditional, pristine white thobe (zina) with prominent, defined shoulders.
+
+* **Accessories:** Over his robe, he wears a matching set of olive-green and gray leather accessories, adorned with delicate silver-tone medallions and pins. These accessories include crossed chest straps, wide leather wristbands, and a broad waist belt (asib). At the center of the belt is a traditional curved Yemeni dagger (jambiya).
+
+**Weapon:** An antique wooden and metal rifle hangs from his left shoulder, clearly visible behind his back.
+
+**Details:** His left hand rests near the belt, displaying a large, modern black wristwatch and a silver ring.
+
+**Type Design and Text Layout (Arabic and English):**
+
+* **Top Title:** The word 'CONGRATULATIONS' is written in a clear, three-dimensional cursive font in olive green, with a distinctive white border/glow at the top edge.
+
+* **Name at the Bottom Center (Arabic):** In a large, elegant Arabic script, written in a modern, fluid, flame-like 3D font in olive green, with a distinctive white border/glow at the top edge, the text reads 'اسامة نجيب'. 
+* **Name at the bottom center (English):** Below the Arabic name, the English text of the same name is translated into English in a clear, elegant cursive font, in olive green.
+
+* **Footnote:** Directly below, a single line in small, sharp black Arabic script reads: 'تهنئة مقدمة من: كافة الأهل والأصدقاء'
+
+**Lighting and Atmosphere:** Soft, professional portrait lighting on the subject, maintaining perfect clarity against a soft, light golden-brown blurred background. Cinematic depth of field, 8K resolution.
+In the lower left corner of the workspace, there is a small, elegant, handwritten text/signature that reads 'PixelLab Pro Plus'.
+2:3",
 "■ كيفية إستخدام البرومبت ✓
 ..........................................
  1. نسخ النص: قم بـ (نسخ البرومبت ⧉) من خلال الضغط مطولاً على النص ثم نسخ ❐.
